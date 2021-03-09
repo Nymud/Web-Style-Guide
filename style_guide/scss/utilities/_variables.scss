@@ -1,0 +1,26 @@
+// Descriptive color variables
+
+$malibu           : #51ddfc;
+$viking           : #58E1C1;
+$boulder          : #777777;
+$white            : #ffffff;
+$purple-mountain  : #927BC1;
+$coral            : #FD7856;
+$snuff            : #DED2EE;
+$anakiwa          : #7EE6FD;
+$vista-blue       : #88D9A0;
+$fountain-blue    : #4DA2BB;
+$sea-pink         : #ec9fa3;
+$vivid-tangerine  : #FD9F85;
+$sunglo           : #E4757A;
+$emerald          : #63CC82;
+$riptide          : #80E8D1;
+$silver           : #CCCCCC;
+
+// functional color variables
+
+$btn-hover    : lighten($malibu, 15%);
+
+// Media query breakpoints
+
+$brk-narrow      :'(min-width:768px)';
